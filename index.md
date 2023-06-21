@@ -10,3 +10,8 @@ I am trying/testing how to make headers.
 ```
 This is my code block practice.
 ```
+Shopping list 
+- [x] mango
+- [x] milk
+- [ ] lettuce
+- [ ] ham
